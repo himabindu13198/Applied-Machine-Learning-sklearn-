@@ -1,4 +1,4 @@
-**For the first task of classification** , the dataset used is https://www.openml.org/d/31. The tasks performed are: \
+**For the first task of classification** , the dataset used is https://www.openml.org/d/31. The tasks performed are:\
 
 1.1 Determine which features are continuous and which are categorical.\
 1.2 Visualize the univariate distribution of each continuous feature, and the distribution of the
